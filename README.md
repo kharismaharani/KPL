@@ -4,11 +4,10 @@
 
 ### Hello World 👋 I am [Kharismaharani Aisyah Putri](https://github.com/kharismaharani)
 
-- 🔭 Tugas Website Mata Kuliah Keamanan Perangkat Lunak**
-- 🌱 Berbagai fitur dalam website ini seperti : **
-
+- 🔭 Tugas Website Mata Kuliah Keamanan Perangkat Lunak
+- 🌱 NIM : 19051397015
+- 👯 D4 Manajemen Informatika 2019'A
 
 ⭐️ [Kharismaharani Aisyah Putri](https://github.com/kharismaharani) 
 
-<br />
 
