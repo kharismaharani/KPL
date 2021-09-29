@@ -8,6 +8,4 @@
 - 🌱 NIM : 19051397015
 - 👯 D4 Manajemen Informatika 2019'A
 
-⭐️ [Kharismaharani Aisyah Putri](https://github.com/kharismaharani) 
-
 
